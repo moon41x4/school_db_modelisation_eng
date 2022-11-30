@@ -215,7 +215,7 @@ COMMIT;
 
            
 -- modules and elements ids
-insert into List_Mod_Elm_Id VALUES('HIID14','O','O','VET Premiï¿½re Annï¿½e ID','VET Premiï¿½re Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIID14','O','O','VET Première Année ID','VET Première Année ID');
 insert into List_Mod_Elm_Id values('HIID104', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIID1004', 'O', 'O', 'semester 1', 'semester 1');
 insert into  List_Mod_Elm_Id values('HIID1104', 'O', 'O', 'Analyse numÃ©rique matricielle et Statistique InfÃ©rentielle', 'Analyse numÃ©rique matricielle et Statistique InfÃ©rentielle');
@@ -247,7 +247,7 @@ insert into  List_Mod_Elm_Id values('HIID2604', 'O', 'O', 'Administration et Opt
 
 
 
-insert into List_Mod_Elm_Id VALUES('HIID24','O','O','VET Deuxiï¿½me Annï¿½e ID','VET Deuxiï¿½me Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIID24','O','O','VET Deuxième Année ID','VET Deuxième Année ID');
 insert into List_Mod_Elm_Id values('HIID204', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIID3004', 'O', 'O', 'semester 3', 'semester 3');
 insert into  List_Mod_Elm_Id values('HIID3004', 'O', 'O', 'Intelligence Artificielle I â€“ Machine Learning', 'Intelligence Artificielle I â€“ Machine Learning');
@@ -274,7 +274,7 @@ insert into  List_Mod_Elm_Id values('HIID4604', 'O', 'O', 'Entreprenariat -II-',
 
 
 
-insert into List_Mod_Elm_Id VALUES('HIID34','O','O','VET Troisiï¿½me Annï¿½e ID','VET Troisiï¿½me Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIID34','O','O','VET Troisième Année ID','VET Troisième Année ID');
 insert into List_Mod_Elm_Id values('HIID304', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIID5004', 'O', 'O', 'semester 5', 'semester 5');
 insert into  List_Mod_Elm_Id values('HIID5004', 'O', 'O', 'Web Marketing et CRM', 'Web Marketing et CRM');
@@ -295,7 +295,7 @@ insert into  List_Mod_Elm_Id values('HIID6104', 'O', 'O', 'Projet de Fin d\'AnnÃ
 
 COMMIT;
 
---GÃ©nie Informatique 
+--Genie Informatique 
 -- 1ere annee
 insert into Mod_Elem_id values('HIGI104', 'ENH', '', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 -- S1
@@ -521,7 +521,7 @@ COMMIT;
 
            
 -- modules and elements ids
-insert into List_Mod_Elm_Id VALUES('HIGI14','O','O','VET Premiï¿½re Annï¿½e ID','VET Premiï¿½re Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIGI14','O','O','VET Première Année ID','VET Première Année ID');
 insert into List_Mod_Elm_Id values('HIGI104', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIGI1004', 'O', 'O', 'semester 1', 'semester 1');
 insert into  List_Mod_Elm_Id values('HIGI1104', 'O', 'O', 'Analyse numÃ©rique matricielle et Statistique InfÃ©rentielle', 'Analyse numÃ©rique matricielle et Statistique InfÃ©rentielle');
@@ -556,7 +556,7 @@ insert into  List_Mod_Elm_Id values('HIGIS004', 'O', 'O', 'semester S', 'semeste
 
 
 
-insert into List_Mod_Elm_Id VALUES('HIGI24','O','O','VET Deuxiï¿½me Annï¿½e ID','VET Deuxiï¿½me Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIGI24','O','O','VET Deuxième Année ID','VET Deuxième Année ID');
 insert into List_Mod_Elm_Id values('HIGI204', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIGIa004', 'O', 'O', 'semester a', 'semester a');
 
@@ -587,7 +587,7 @@ insert into  List_Mod_Elm_Id values('HIGI4604', 'O', 'O', 'Entreprenariat -II-',
 
 
 
-insert into List_Mod_Elm_Id VALUES('HIGI34','O','O','VET Troisiï¿½me Annï¿½e ID','VET Troisiï¿½me Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIGI34','O','O','VET Troisième Année ID','VET Troisième Année ID');
 insert into List_Mod_Elm_Id values('HIGI304', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIGI5004', 'O', 'O', 'semester 5', 'semester 5');
 insert into  List_Mod_Elm_Id values('HIGI5004', 'O', 'O', 'Web Marketing et CRM', 'Web Marketing et CRM');
@@ -608,7 +608,7 @@ insert into  List_Mod_Elm_Id values('HIGI6104', 'O', 'O', 'Projet de Fin d\'AnnÃ
 
 COMMIT;
 
---GÃ©nie Energetique 
+--Genie Energetique 
 
 
 -- 2eme annee
@@ -775,7 +775,7 @@ INSERT INTO Trait_Notes_Id VALUES('HIGEE6004','HTN' ,'T');
 INSERT INTO Trait_Notes_Id VALUES('HIGEE6104','HTN' ,'T');
 COMMIT; 
 
-insert into List_Mod_Elm_Id VALUES('HIGEE24','O','O','VET Deuxiï¿½me Annï¿½e ID','VET Deuxiï¿½me Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIGEE24','O','O','VET Deuxième Année ID','VET Deuxième Année ID');
 insert into List_Mod_Elm_Id values('HIGEE204', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIGEEa004', 'O', 'O', 'semester a', 'semester a');
 
@@ -808,7 +808,7 @@ insert into  List_Mod_Elm_Id values('HIGEE4604', 'O', 'O', 'Entreprenariat -II-'
 
            
 -- modules and elements ids
-insert into List_Mod_Elm_Id VALUES('HIGEE14','O','O','VET Premiï¿½re Annï¿½e ID','VET Premiï¿½re Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIGEE14','O','O','VET Première Année ID','VET Première Année ID');
 insert into List_Mod_Elm_Id values('HIGEE104', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIGEE2004', 'O', 'O', 'semester 2', 'semester 2');
 insert into  List_Mod_Elm_Id values('HIGEE2004', 'O', 'O', 'Data Mining', 'Data Mining');
@@ -820,7 +820,7 @@ insert into  List_Mod_Elm_Id values('HIGEE2404', 'O', 'O', 'Administration et Op
 
 
 
-insert into List_Mod_Elm_Id VALUES('HIGEE34','O','O','VET Troisiï¿½me Annï¿½e ID','VET Troisiï¿½me Annï¿½e ID');
+insert into List_Mod_Elm_Id VALUES('HIGEE34','O','O','VET Troisième Année ID','VET Troisième Année ID');
 insert into List_Mod_Elm_Id values('HIGEE304', 'O', 'O', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 insert into  List_Mod_Elm_Id values('HIGEE5004', 'O', 'O', 'semester 5', 'semester 5');
 insert into  List_Mod_Elm_Id values('HIGEE5004', 'O', 'O', 'Web Marketing et CRM', 'Web Marketing et CRM');

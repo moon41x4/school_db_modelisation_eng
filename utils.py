@@ -21,7 +21,8 @@ class db_modeliser():
         try:        
             with open(self.data_path, "r") as f:
                 self.df = pd.read_csv(f)
-                logging.info("The program is working as expected")
+                logging.info("The data is parsed")
+
             
         except:
             logging.warning("Error Occured when trying to read the file")
