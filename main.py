@@ -2,8 +2,8 @@ from utils import db_modeliser
 
 def main(data_path, script_path="script_file.sql", log_path="file.log", sec_code = {
         "DATA ENGINEERING": "ID",
-        "GENE INFORMATIQUE": "GI",
-        "GENE ENERGETIQUE": "GEE"
+        "Génie Informatique": "GI",
+        "Génie Energetique": "GEE"
     }):
     
     mod = db_modeliser(data_path, log_path, sec_code)

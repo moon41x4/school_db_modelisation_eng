@@ -295,7 +295,7 @@ insert into  List_Mod_Elm_Id values('HIID6104', 'O', 'O', 'Projet de Fin d\'Ann√
 
 COMMIT;
 
---Gene Informatique 
+--G√©nie Informatique 
 -- 1ere annee
 insert into Mod_Elem_id values('HIGI104', 'ENH', '', 'VET_ELEM_NOM', 'VET_ELEM_NOM');
 -- S1
@@ -608,7 +608,7 @@ insert into  List_Mod_Elm_Id values('HIGI6104', 'O', 'O', 'Projet de Fin d\'Ann√
 
 COMMIT;
 
---Gene Energetique 
+--G√©nie Energetique 
 
 
 -- 2eme annee
